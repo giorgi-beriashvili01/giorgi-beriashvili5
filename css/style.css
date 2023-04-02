@@ -42,7 +42,7 @@ button {
 
 }
 
-section {
+article {
     width: 780px;
     margin: 200px auto;
     display: block;
@@ -58,7 +58,7 @@ h2 {
 
 }
 
-.section_text {
+.article_text {
     margin-top: 52px;
     color: #656565;
     font-family: 'Nerko One';
