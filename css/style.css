@@ -18,7 +18,7 @@ nav {
 }
 
 li {
-    font-family: 'Nerko One'; 
+    font-family: 'Nerko One';
     font-size: 20px;
     font-weight: 400;
     color: #FFFFFF;
@@ -40,4 +40,29 @@ button {
     color: #2A9D8F;
     vertical-align: middle;
 
+}
+
+article {
+    width: 780px;
+    margin: 200px auto;
+    display: block;
+}
+
+h2 {
+    margin-bottom: 8px;
+    font-family: 'Poppins', sans-serif;
+    color: #4D4D4D;
+    font-size: 48px;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.article_text {
+    margin-top: 52px;
+    color: #656565;
+    font-family: 'Nerko One';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
 }
