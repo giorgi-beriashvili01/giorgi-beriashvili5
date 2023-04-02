@@ -48,7 +48,7 @@ article {
     display: block;
 }
 
-h2 {
+h1 {
     margin-bottom: 8px;
     font-family: 'Poppins', sans-serif;
     color: #4D4D4D;
@@ -67,7 +67,7 @@ h2 {
     line-height: 30px;
 }
 
-section {
+.top_section {
     margin: 0 auto;
     width: 1440px;
     display: block;
@@ -87,12 +87,12 @@ section {
     width: 486px;
 }
 
-h4 {
+h2 {
     font-family: 'Poppins', sans-serif;
     font-size: 32px;
     font-weight: 500;
     line-height: 48px;
-    color:  #272727;
+    color: #272727;
 
 }
 
@@ -113,4 +113,93 @@ h4 {
     font-weight: 400;
     padding: 11px 16px;
     margin-top: 45px;
+}
+
+.bottom_section {
+    width: 1180px;
+    display: block;
+    margin: 200px auto;
+
+}
+
+.bottom_section_header {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 62px;
+    color: #4D4D4D;
+    margin-bottom: 54px;
+}
+
+.bottom_left_div {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.bottom_right_div {
+    display: inline-block;
+}
+
+.div_text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #535353;
+    margin-top: 32px;
+}
+
+footer {
+    background-color: #2A9D8F;
+    width: 1440px;
+    margin: 0 auto;
+
+
+}
+
+.footer_div {
+    padding: 90px 130px;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer_img {
+    height: 98px;
+    width: 98px;
+    margin-right: 627px;
+}
+
+.footer_left_div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footrt_middle_div {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 40px;
+}
+
+.footer_right_div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer_div_title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 21px;
+}
+
+.footer_div_text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #FFFFFF;
 }
